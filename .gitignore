@@ -1,0 +1,15 @@
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+*.dta
+*.xpt
+*.sas7bdat
+*.parquet
